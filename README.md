@@ -2,9 +2,13 @@
 - 👀 I’m interested in ML and DL
 - 🌱 I’m currently learning ENTC Enginnering
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me sj.abd.17@gmail.com
+- 📫 How to reach me 
+-          📧Mail - sj.abd.17@gmail.com
+-          💬Instagram - shrey_j_17
+-          🐤Twitter - Shrey_j_17
 - 💬 Ask me about C++, Python, or any tech related stuff
 - 🎧 I spend 5-6 hrs in listening songs everyday
+      
       ADIOS AMIGOS!!! 🙋‍♂️
      
 
